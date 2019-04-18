@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS mu_control_de_archivos;
-use mu_control_de_archivos;
+CREATE DATABASE IF NOT EXISTS ms_administracion_de_archivos;
+use ms_administracion_de_archivos;
 
 CREATE TABLE IF NOT EXISTS lca_llaves(
     id_llave INT UNSIGNED AUTO_INCREMENT,
